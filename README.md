@@ -111,10 +111,8 @@ Car Rental, Eco Store, portfolio sites, e-commerce clones, calculators & utility
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Usamasarwar026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://streak-stats.demolab.com?user=Usamasarwar026&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Usamasarwar026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Usamasarwar026&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -127,7 +125,6 @@ Car Rental, Eco Store, portfolio sites, e-commerce clones, calculators & utility
 <img src="https://raw.githubusercontent.com/Usamasarwar026/Usamasarwar026/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/Usamasarwar026/Usamasarwar026/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 
-<sub>⚙️ Requires a one-time GitHub Action setup — see instructions below</sub>
 
 </div>
 
