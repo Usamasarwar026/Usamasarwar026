@@ -24,7 +24,7 @@
 
 I'm a Full Stack Developer based in Faisalabad, Pakistan, currently completing my B.S. in Software Engineering at Government College University *(2022–2026)*. I build production-grade web and mobile apps end-to-end — from database schema and authentication to deployment — using **Next.js, React, and React Native**.
 
-I like turning ideas into working products fast, and I've shipped **16+ personal and academic projects**, including a Final Year Project that automatically generates full, production-ready hotel management websites. I'm currently sharpening my **DSA** skills and exploring **Generative AI**, alongside hands-on training from a remote internship at **Codex**, a 1-year Web & Mobile Dev program at **SMIT**, a Bootcamp at **Techloset Solutions**, and the Harvard-affiliated **Aspire Leaders Program**.
+I like turning ideas into working products fast, and I've shipped **16+ personal and academic projects**, including a Final Year Project that automatically generates full, production-ready hotel management websites. I'm currently sharpening my **DSA** skills and exploring **Generative AI**, alongside hands-on training from a remote internship at **Codanax**, a 1-year Web & Mobile Dev program at **SMIT**, a Bootcamp at **Techloset Solutions**, and the Harvard-affiliated **Aspire Leaders Program**.
 
 <br/>
 
