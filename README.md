@@ -47,7 +47,7 @@ I like turning ideas into working products fast, and I've shipped **16+ personal
 **🏨 Smart Hotel Website Auto-Generator**
 <sub>Final Year Project</sub>
 
-Auto-generates a fully production-ready hotel management website based on selected modules — no manual setup needed.
+Auto-generates a fully production-ready hotel management website based on selected modules.
 
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 
