@@ -109,11 +109,16 @@ Car Rental, Eco Store, portfolio sites, e-commerce clones, calculators & utility
 
 ## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Usamasarwar026&show_icons=true&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Usamasarwar026&layout=compact&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
 <div align="center">
-
-
 <img height="165" src="https://streak-stats.demolab.com?user=Usamasarwar026&theme=tokyonight&hide_border=true&background=0D1117"/>
-
 </div>
 
 <br/>
