@@ -12,10 +12,6 @@
 <a href="https://usamasarwar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:usamasarwar160492@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Usamasarwar026&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="profile views"/>
-
 </div>
 
 <br/>
@@ -119,18 +115,6 @@ Car Rental, Eco Store, portfolio sites, e-commerce clones, calculators & utility
 
 <div align="center">
 <img height="165" src="https://streak-stats.demolab.com?user=Usamasarwar026&theme=tokyonight&hide_border=true&background=0D1117"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Usamasarwar026/Usamasarwar026/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/Usamasarwar026/Usamasarwar026/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-
-
 </div>
 
 <br/>
